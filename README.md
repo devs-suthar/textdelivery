@@ -1,4 +1,4 @@
 # textdelivery
 Text Delivery - Fast, Reliable SMS Delivery - Every Time! 
-
-This is first Git Repository.
+This is first Git Repository.<br>
+Author - Devang Suthar
