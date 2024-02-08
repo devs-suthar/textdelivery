@@ -97,9 +97,9 @@ body{
     margin-bottom: 1em;
 }
 h1{
-    font-size: 3em;
+    font-size: 3.15em;
     margin: 0;
-    line-height: 1.3em;
+    line-height: 1.32em;
     font-weight: 700;
     color: var(--dark-text);
 }
